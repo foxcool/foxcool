@@ -7,6 +7,7 @@
 - [📝 Habr](https://habr.com/ru/users/Foxcool/) — technical articles (Russian)
 - [🌐 darkfox.info](https://darkfox.info/) — site
 - [🎭 vas3k.club](https://vas3k.club/user/Foxcool/) — IT community profile (Russian)
+- [📄 Resume (PDF)](./software-developer.pdf)
 
 ## About
 
