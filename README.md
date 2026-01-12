@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**foxcool/foxcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
 
-Here are some ideas to get you started:
+- [💼 LinkedIn](https://www.linkedin.com/in/ababenko/) — professional profile
+- [📱 Telegram](https://t.me/darkfox_info) — personal channel (Russian)
+- [📝 Habr](https://habr.com/ru/users/Foxcool/) — technical articles (Russian)
+- [🌐 darkfox.info](https://darkfox.info/) — site
+- [🎭 vas3k.club](https://vas3k.club/user/Foxcool/) — IT community profile (Russian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🔭 Currently working on [greedy-eye](https://github.com/foxcool/greedy-eye) — crypto portfolio analytics
+- 🌱 Learning DeFi protocols, PostgreSQL internals
+- 👯 Looking to collaborate on distributed systems, Web3
+- 💬 Ask me about legacy refactoring, Go, remote team processes
+- 📫 How to reach me: foxcool333@gmail.com
+- 📍 Phuket, Thailand (UTC+7)
+
+## Communities I moderate
+
+- [@distributed](https://t.me/distributed) — decentralization, p2p, mesh networks
+- [@ru_traders](https://t.me/ru_traders) — investing and economics
+- [@nomadconf](https://t.me/nomadconf) — remote work, digital nomads
